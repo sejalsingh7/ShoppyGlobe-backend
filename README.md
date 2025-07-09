@@ -1,4 +1,4 @@
-My GitHub Repo- https://github.com/sejalsingh7/shoppyglobe-e-commerce-app
+My GitHub Repo- https://github.com/sejalsingh7/ShoppyGlobe-backend
 
 
 
